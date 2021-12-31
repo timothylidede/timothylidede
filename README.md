@@ -1,23 +1,17 @@
-<a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="Timothy Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=timothylidede&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
+<a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="Timothy Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=timothylidede&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
 <p align="center">
     <a href="https://github.com/timothylidede/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Timothy Lidede's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=timothylidede&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Timothy Lidede's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=timothylidede&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
     </a>
 </p>
-
-  <br/>
     
-  <a href="https://github.com/timothylidede/github-readme-stats"><img alt="Timothy Lidede's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothylidede&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <p align="center">
+  <a href="https://github.com/timothylidede/github-readme-stats"><img alt="Timothy Lidede's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothylidede&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
   <br/>
   <b>Note:</b> Most used languages is only a metric of the languages my public repositories consists of and doesn't reflect experience or skill level.
+  </p>
 
-<br/>
-
-<br/>
 
 ## Connect with me:
 <p align="left">
