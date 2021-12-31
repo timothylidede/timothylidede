@@ -1,3 +1,7 @@
+<a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="Timothy Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=timothylidede&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
 <p align="center">
     <a href="https://github.com/timothylidede/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Timothy Lidede's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=timothylidede&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -13,9 +17,6 @@
 
 <br/>
 
-<a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="Timothy Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=timothylidede&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ## Connect with me:
