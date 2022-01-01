@@ -19,4 +19,9 @@
 
 </p>
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=timothylidede">
+</a>
+<a href="https://github.com/timothylidede?tab=followers"><img src="https://img.shields.io/github/followers/timothylidede?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <br/>
