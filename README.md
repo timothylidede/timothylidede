@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=hey:\),+Dede+here.;i+write+a+bunch+of+code.;VEEERY+clean+code,+lol.;they+call+me..+"JAVAMAN".;anyway..;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=hey:\),+Dede+here.;i+write+a+bunch+of+code.;VEEERY+clean+code,+lol.;anyway..;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 
 <a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="Timothy Lidede's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=timothylidede&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
