@@ -9,7 +9,7 @@
 </p>
     
   <p align="center">
-  <a href="https://github.com/timothylidede/github-readme-stats"><img alt="Timothy Lidede's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothylidede&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
+  <a href="https://github.com/timothylidede/github-readme-stats"><img alt="Timothy Lidede's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothylidede&langs_count=12&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
   <br/>
 
 
