@@ -9,10 +9,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Timothy Lidede's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=timothylidede&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
     </a>
 </p>
-    
-  <p align="center">
-  <a href="https://github.com/timothylidede/github-readme-stats"><img alt="Timothy Lidede's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothylidede&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
-  <br/>
 
 
 ## Connect with me:
