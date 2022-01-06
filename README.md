@@ -25,14 +25,3 @@
 <a href = "https://twitter.com/timothylidede"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
-
-<<<<<<< HEAD
-<br/>
-=======
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=timothylidede">
-</a>
-<a href="https://github.com/timothylidede?tab=followers"><img src="https://img.shields.io/github/followers/timothylidede?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<br/>
->>>>>>> 50e7e4f44c254190ccf481ae64e5fce30f53c139
