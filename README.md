@@ -12,3 +12,5 @@
 <a href = "https://www.linkedin.com/in/timothylidede/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
+
+![gitartwork](gitartwork.svg)
