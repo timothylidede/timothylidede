@@ -15,5 +15,5 @@ jobs:
           # Use this username's contribution graph
           user_name: timothylidede
           # Text on contribution graph
-          text: DEDE
+          text: TIM DEDE
       - uses: jasineri/simple-push-action@v1
