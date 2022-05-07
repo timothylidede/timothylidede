@@ -12,3 +12,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Timothy Lidede's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=timothylidede&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
     </a>
 </p>
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=timothylidede">
+</a>
